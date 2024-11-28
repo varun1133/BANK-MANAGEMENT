@@ -61,7 +61,7 @@ Ensure the following are installed on your system:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/bank-management-system.git
+git clone https://github.com/VARUN/bank-management-system.git
 cd bank-management-system
 ```
 
