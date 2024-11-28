@@ -115,13 +115,6 @@ cd bank-management-system
 
 ---
 
-## Contributing
-Contributions are welcome! Feel free to fork the repository and submit a pull request with your changes.
-
----
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -133,4 +126,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to replace **`yourusername`** in the clone command with your GitHub username and customize the `MONGO_URI` with your connection string. Let me know if you need further adjustments!
